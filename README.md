@@ -1,5 +1,6 @@
 # TPDOMDR
-![Uploading model.small.png…]()
+<img width="8908" height="3507" alt="model small" src="https://github.com/user-attachments/assets/6e64746a-0df1-4193-846c-1a6ac555bb4d" />
+
 
 
 
