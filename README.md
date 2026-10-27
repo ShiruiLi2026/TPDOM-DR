@@ -1,5 +1,6 @@
 # TPDOMDR
-<img width="8908" height="3507" alt="model small" src="https://github.com/user-attachments/assets/6e64746a-0df1-4193-846c-1a6ac555bb4d" />
+<img width="8908" height="3507" alt="fig2" src="https://github.com/user-attachments/assets/a464d7c2-8c0e-48a4-9369-d9cdfcf08cfc" />
+
 
 
 
